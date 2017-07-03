@@ -1,10 +1,14 @@
 # teleop_twist_keyboard
 Generic Keyboard Teleoperation for ROS
 
-#Launch
-To run: `rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
+## Launch
 
-#Usage
+To run from Debian packages: `/opt/ros/r2b2/lib/teleop_twist_keyboard/teleop_twist_keyboard`
+
+To run in a from-source workspace: `ros2 run teleop_twist_keyboard teleop_twist_keyboard`
+
+## Usage
+
 ```
 This node takes keypresses from the keyboard and publishes them as Twist
 messages. It works best with a US keyboard layout.
