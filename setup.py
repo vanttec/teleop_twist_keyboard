@@ -17,7 +17,7 @@ setup(
     install_requires=['setuptools'],
     maintainer='Austin Hendrix',
     maintainer_email='namniart@gmail.com',
-    author="Graylin Trevor Jay",
+    author='Graylin Trevor Jay',
     keywords=['ROS'],
     classifiers=[
         'Intended Audience :: Developers',
