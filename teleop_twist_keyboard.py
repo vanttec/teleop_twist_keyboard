@@ -164,7 +164,6 @@ def main():
             pub.publish(twist)
 
     except Exception as e:
-        e = sys.exc_info()[0]
         print(e)
 
     finally:
