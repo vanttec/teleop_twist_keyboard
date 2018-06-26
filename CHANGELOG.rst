@@ -1,5 +1,5 @@
-Forthcoming
------------
+2.0.1 (2018-06-26)
+------------------
 * set zip_safe to avoid warning during installation (`#14 <https://github.com/ros2/teleop_twist_keyboard/issues/14>`_)
 * Update the maintainer to me. (`#13 <https://github.com/ros2/teleop_twist_keyboard/issues/13>`_)
 * fix data files install path (`#12 <https://github.com/ros2/teleop_twist_keyboard/issues/12>`_)
