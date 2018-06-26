@@ -1,3 +1,16 @@
+Forthcoming
+-----------
+* set zip_safe to avoid warning during installation (`#14 <https://github.com/ros2/teleop_twist_keyboard/issues/14>`_)
+* Update the maintainer to me. (`#13 <https://github.com/ros2/teleop_twist_keyboard/issues/13>`_)
+* fix data files install path (`#12 <https://github.com/ros2/teleop_twist_keyboard/issues/12>`_)
+* remove test_suite, add pytest as test_requires (`#11 <https://github.com/ros2/teleop_twist_keyboard/issues/11>`_)
+* use ros2 run to launch whichever the installation used (`#8 <https://github.com/ros2/teleop_twist_keyboard/issues/8>`_)
+* Fix teleop_twist_keyboard to have a setup.cfg. (`#9 <https://github.com/ros2/teleop_twist_keyboard/issues/9>`_)
+* Make sure to add teleop_twist_keyboard to ament index. (`#6 <https://github.com/ros2/teleop_twist_keyboard/issues/6>`_)
+* use OSI website as reference for license (`#2 <https://github.com/ros2/teleop_twist_keyboard/issues/2>`_)
+* ROS 2 port (`#1 <https://github.com/ros2/teleop_twist_keyboard/issues/1>`_)
+* Contributors: Adam Allevato, Austin, Chris Lalancette, Dirk Thomas, Mikael Arguedas
+
 0.6.1 (2018-05-02)
 ------------------
 * Merge pull request `#11 <https://github.com/ros-teleop/teleop_twist_keyboard/issues/11>`_ from MatthijsBurgh/patch-1
