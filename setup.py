@@ -4,7 +4,7 @@ package_name = 'teleop_twist_keyboard'
 
 setup(
     name=package_name,
-    version='2.0.0',
+    version='2.1.1',
     packages=[],
     py_modules=[
         'teleop_twist_keyboard'
