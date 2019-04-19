@@ -1,5 +1,5 @@
-Forthcoming
------------
+2.3.0 (2019-04-19)
+------------------
 * changing QoS to default (`#18 <https://github.com/ros2/teleop_twist_keyboard/issues/18>`_)
 * Contributors: thorstink
 
