@@ -1,5 +1,5 @@
-Forthcoming
------------
+2.3.1 (2019-10-03)
+------------------
 * Stop using deprecated APIs. (`#22 <https://github.com/ros2/teleop_twist_keyboard/issues/22>`_)
 * Contributors: Chris Lalancette
 
