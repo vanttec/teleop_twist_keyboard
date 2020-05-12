@@ -1,5 +1,5 @@
-Forthcoming
------------
+2.3.2 (2020-05-12)
+------------------
 * Add Windows support to teleop_twist_keyboard. (`#24 <https://github.com/ros2/teleop_twist_keyboard/issues/24>`_)
 * Contributors: Chris Lalancette
 
