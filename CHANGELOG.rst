@@ -1,3 +1,8 @@
+Forthcoming
+-----------
+* Add Windows support to teleop_twist_keyboard. (`#24 <https://github.com/ros2/teleop_twist_keyboard/issues/24>`_)
+* Contributors: Chris Lalancette
+
 2.3.1 (2019-10-03)
 ------------------
 * Stop using deprecated APIs. (`#22 <https://github.com/ros2/teleop_twist_keyboard/issues/22>`_)
