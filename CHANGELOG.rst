@@ -1,3 +1,12 @@
+Forthcoming
+-----------
+* Fixes for flake8. (`#29 <https://github.com/ros2/teleop_twist_keyboard/issues/29>`_)
+* Show command to change topic name on readme (`#27 <https://github.com/ros2/teleop_twist_keyboard/issues/27>`_)
+* Remove url for ros1 on package.xml (`#28 <https://github.com/ros2/teleop_twist_keyboard/issues/28>`_)
+* Added TwistStamped option (`#26 <https://github.com/ros2/teleop_twist_keyboard/issues/26>`_)
+* Switch to underscores for setup.cfg. (`#25 <https://github.com/ros2/teleop_twist_keyboard/issues/25>`_)
+* Contributors: Asuki Kono, Chris Lalancette, agyoungs
+
 2.3.2 (2020-05-12)
 ------------------
 * Add Windows support to teleop_twist_keyboard. (`#24 <https://github.com/ros2/teleop_twist_keyboard/issues/24>`_)
