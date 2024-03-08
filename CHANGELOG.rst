@@ -1,5 +1,5 @@
-Forthcoming
------------
+2.4.0 (2024-03-08)
+------------------
 * Fixes for flake8. (`#29 <https://github.com/ros2/teleop_twist_keyboard/issues/29>`_)
 * Show command to change topic name on readme (`#27 <https://github.com/ros2/teleop_twist_keyboard/issues/27>`_)
 * Remove url for ros1 on package.xml (`#28 <https://github.com/ros2/teleop_twist_keyboard/issues/28>`_)
